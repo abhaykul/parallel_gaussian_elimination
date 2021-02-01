@@ -1,4 +1,4 @@
-package project1;
+package com.company.project1;
 /**
  * Abhay Vivek Kulkarni
  * ak6277@rit.edu
